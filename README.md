@@ -36,7 +36,11 @@ Overall, I cannot really complain about the performace (see below).
 ![geekbench-jan-2022](https://user-images.githubusercontent.com/3272436/166143800-88a34493-3ddd-4a5d-8653-eea550fc7848.png)
 
 - After a few macOS upgrades, it seems to have gone down a little:
-![geekbench-recent](https://user-images.githubusercontent.com/3272436/166143807-e9e7bfea-bce4-4402-b8bd-fd45284a75c1.png)
+![geekbench-recent-past](https://user-images.githubusercontent.com/3272436/166143807-e9e7bfea-bce4-4402-b8bd-fd45284a75c1.png)
+
+- A more recent Geekbench test resulting in improvements to the score:
+![geekbench-recent](https://user-images.githubusercontent.com/3272436/172646642-ce288d47-7eeb-42e6-9a17-8c483e58a49b.png)
+
 
 # Not working
 - Sidecar (this is due to 11th Gen CPU's iGPU is not supported by Apple)
